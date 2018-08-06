@@ -1,6 +1,7 @@
-# Slides and references from Geek97's meetup helf at microsoft, Gurgaon
+## Slides and references from Geek97's August meetup held at microsoft, Gurgaon
 
-- State Management with Redux? by [Mukesh Sharma](https://www.linkedin.com/in/mukesh-sharma-89ab6171)
+
+- **State Management with Redux?** by [Mukesh Sharma](https://www.linkedin.com/in/mukesh-sharma-89ab6171)
 
     [Slides]()
 
@@ -31,6 +32,8 @@
 
 
 - **Introduction to ParcelJS** by [Abhishek Gupta](https://www.linkedin.com/in/abhishekgupta2512)
+
+    [Slides](https://docs.google.com/presentation/d/1Lh8L-TI6fl9WqBHZYm4pneZjb6UEEdANeT1URtOvOiU/edit?usp=drivesdk)        
 
     [Reference 1](https://parceljs.org/)
     
